@@ -1,0 +1,24 @@
+{
+  "name": "MB Development LLC",
+  "short_name": "MB Development",
+  "description": "Professional Construction and Building Services",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e40af",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/Y7kB6GRs/MB-Developers-LLC-fav-icon.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://i.ibb.co/Y7kB6GRs/MB-Developers-LLC-fav-icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
